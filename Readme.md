@@ -6,7 +6,7 @@
 * C#
 * Ruby on rails
 
-[Link to my account 1][1]
+[Link to my account][1]
 
 [1]: https://github.com/juanbecerrab
 
